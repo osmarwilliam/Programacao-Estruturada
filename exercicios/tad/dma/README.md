@@ -1,5 +1,5 @@
 #
-Este é um programa que calcula o número de dias que decorreram entre as duas datas. 
+Este é um programa que calcula o número de dias que decorreram entre duas datas. 
 Pra compilar use:
 #
 
