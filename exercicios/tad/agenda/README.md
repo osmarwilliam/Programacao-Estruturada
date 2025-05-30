@@ -1,5 +1,5 @@
 #
-    Este é um programa que simula uma agenda diretamente do seu terminal. Para compilar use os seguintes comandos:
+Este é um programa que simula uma agenda diretamente do seu terminal. Para compilar use os seguintes comandos:
 #
 
 ```
